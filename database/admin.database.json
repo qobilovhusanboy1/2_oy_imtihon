@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "login": "Husanboy",
+    "password": "$2b$12$vbCSv3nieQMXy4ivni59m.NQtfvytL9qIoI70JTAG5em60iOyLUym"
+  },
+  {
+    "id": 2,
+    "login": "Xasan",
+    "password": "$2b$12$D0U1Et1mlKFCDQIbAEse6eZ55EAaIhW6Wdh4JwIBVea3gAC/MUI.S"
+  },
+  {
+    "id": 3,
+    "login": "Xasanwede",
+    "password": "$2b$12$5G7vJfJrEkfG.XUT.j98xOvdPI05Q0shsb4qg84JS6AiCTiQJWyNC"
+  },
+  {
+    "id": 4,
+    "login": "Xasanwedeefw",
+    "password": "$2b$12$XufGLOfi9DSMYRbF4RxJAusIDLUZZWorIZTyu.QKa8SHM5TRalqEO"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "name": "2_oy_imthon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "git": "^0.1.5",
+    "joi": "^17.9.2",
+    "Router": "^2.1.0"
+  }
+}
